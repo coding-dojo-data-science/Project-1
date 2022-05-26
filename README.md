@@ -28,6 +28,14 @@ Data can include source and high-level description (e.g. # obs)
 
 #### Visual 2 Title
 
+## Model
+
+Describe your final model
+
+Report the most important metrics
+
+Refer to the metrics to describe how well the model would solve the business problem
+
 ## Recommendations:
 
 More of your own text here
