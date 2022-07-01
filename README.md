@@ -1,7 +1,7 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Sales Prediction Model
+## Machine Learning Model used to Predict Sales (Revenue $) 
 
-**Author**: 
+**Author: Thomas Greenacre**: 
 
 ### Business problem:
 
